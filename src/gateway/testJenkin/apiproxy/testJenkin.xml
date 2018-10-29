@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="testJenkin">
+    <Basepaths>/testjenkin</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1540799856994</CreatedAt>
+    <CreatedBy>riteshgumber13@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>testJenkin</DisplayName>
+    <LastModifiedAt>1540799856994</LastModifiedAt>
+    <LastModifiedBy>riteshgumber13@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:8e1c2d589c99e446d3fa6178b40f68587d72b506fa81f17f6e52cb866faa6631ab956b11a9147dd8300be52a5975a63b54b156859898bb0d1406ec3a475f5882</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
